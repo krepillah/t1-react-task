@@ -3,7 +3,7 @@
 но при расширении проекта логичнее их было вынести во внешний файл и вызывать при необходимости
 */
 
-const URL = "http://193.19.100.32:7000"; 
+const URL = process.env.REACT_APP_PAPER_API_URL;
 
 //Получение ролей
 export const TakeRoles = (setRoles) => {
