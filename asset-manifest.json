@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/paper-api/static/css/main.b1dfc53a.css",
-    "main.js": "/paper-api/static/js/main.65e91019.js",
-    "static/media/preloader.gif": "/paper-api/static/media/preloader.f25dad6665950f0c87ea.gif",
-    "index.html": "/paper-api/index.html",
-    "main.b1dfc53a.css.map": "/paper-api/static/css/main.b1dfc53a.css.map",
-    "main.65e91019.js.map": "/paper-api/static/js/main.65e91019.js.map"
+    "main.css": "/t1-react-task/static/css/main.b1dfc53a.css",
+    "main.js": "/t1-react-task/static/js/main.d675e17c.js",
+    "static/media/preloader.gif": "/t1-react-task/static/media/preloader.f25dad6665950f0c87ea.gif",
+    "index.html": "/t1-react-task/index.html",
+    "main.b1dfc53a.css.map": "/t1-react-task/static/css/main.b1dfc53a.css.map",
+    "main.d675e17c.js.map": "/t1-react-task/static/js/main.d675e17c.js.map"
   },
   "entrypoints": [
     "static/css/main.b1dfc53a.css",
-    "static/js/main.65e91019.js"
+    "static/js/main.d675e17c.js"
   ]
 }
